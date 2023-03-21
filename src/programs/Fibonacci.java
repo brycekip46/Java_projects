@@ -6,7 +6,7 @@ public class Fibonacci {
 		if (n==0) {
 			return 0;
 		}else {
-			return fibonacii(n-1),a+b,a;
+			return fibonacii((n-1),a+b,a);
 			
 		}
 		
