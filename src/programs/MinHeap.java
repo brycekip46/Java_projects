@@ -2,7 +2,7 @@ package programs;
 
 import java.util.Arrays;
 
-public class MinHeap {
+public class MinHeap throws ArrayOutOfIndex {
 	private int capacity =10;
 	private int size =0;
 	
